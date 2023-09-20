@@ -16,3 +16,5 @@ These three methods are part of the RecyclerView's Adapter class, which you need
 
 Additionally, it's common to define a custom ViewHolder class that holds references to the views within each item in the RecyclerView. This ViewHolder class should extend RecyclerView.ViewHolder. Here's a simplified example:
 
+file:///C:/Users/Awais/Pictures/Screenshots/Screenshot%20(108).png
+
